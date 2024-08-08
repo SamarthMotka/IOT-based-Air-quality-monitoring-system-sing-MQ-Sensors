@@ -11,3 +11,7 @@ Reference taken from https://create.arduino.cc/projecthub/abid_hossain/air-analy
 ## Screenshots
 
 ![Screenshot](IMG_20221121_162002.jpg)
+![Screenshot](IMG_20221121_162004.jpg)
+![Screenshot](IMG_20221121_162015.jpg)
+![Screenshot](IMG_20221121_162026.jpg)
+![Screenshot](IMG_20221121_162030.jpg)
